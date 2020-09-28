@@ -2,5 +2,4 @@
 
 # infraascode.dev
 
-Código do blog do Infra as Code Dev gerado pelo Jekyll usando o tema [jekyll-theme-clean-blog](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll).
-
+Código do blog do Infra as Code Dev gerado pelo Jekyll usando o tema [texture](https://github.com/samarsault/texture).
