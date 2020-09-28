@@ -31,7 +31,6 @@ texture:
 show_excerpts: true
 
 remote_theme: thelehhman/texture
-theme: texture
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
