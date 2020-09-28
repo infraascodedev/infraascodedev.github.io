@@ -1,0 +1,36 @@
+title: IaC Dev
+author: Jakson Rodrigues
+email: jaksonwkr@ghotmail.com
+description: >
+  Blog com dicas e artigos sobre infraestrutura como Código, 
+  Computação em Nuvem, Linux, Kubernetes e um pouco de desenvolvimento.
+
+texture:
+  title: IaC Dev
+  tagline: Infra as Code Dev
+  date_format: "%-d %b %Y"
+  style: blue
+  showPicker: false
+  showNav: true
+  disqus_shortname: jaksonwkr
+  analytics_id: 'UA-179091697-1'
+
+  navigation:
+    - title: Inicio
+      url: "/"
+    - title: Sobre
+      url: "/sobre"
+    - title: RSS
+      url: "/feed.xml"
+
+  social_links:
+    twitter: jaksonwkr
+    github:  jaksonwkr
+    linkedIn: in/jaksonwkr
+
+show_excerpts: true
+
+theme: texture
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
